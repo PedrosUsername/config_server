@@ -16,11 +16,15 @@ em um mesmo lugar facilita a manutenção do software.
 
 ## Esse projeto foi feito com Spring Boot:
 
-Inicie-o no seu sistema com o comando
+Inicie o projeto no seu sistema com o comando:
 
 ```shell script
 $ ./gradlew bootRun
 ```
+
+Configurações hospedadas em:
+
+* https://github.com/oswaldoneto/dio-experts-config.git
 
 ## O projeto foi desenvolvido e testado sob as seguintes condições:
 
